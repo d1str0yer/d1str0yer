@@ -3,9 +3,7 @@
 - 🌱 I’m currently learning Web development from Udemy Angela Yu
 - 💞️ I’m looking to collaborate on Single page web apps, API creation, Documentation, Backend development etc.
 - 📫 You can reach me as below:
-- Email: lalit_kumar_jha@hotmail.com 
-- Mob: 7973401109 
-- Whatsapp: 8051710534 
+- Email: lalit_kumar_jha@hotmail.com
 - Instagram: lalit_kumar_jha
 
 <!---
